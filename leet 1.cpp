@@ -19,6 +19,6 @@ public:
             num_map[nums[i]] = i;
         }
         
-        return {}; 
+        return {};
     }
 };
