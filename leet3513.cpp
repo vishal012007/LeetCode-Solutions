@@ -28,7 +28,7 @@ int main() {
     // 2. Define a test case 
     vector<int> nums = {1, 2, 3}; 
     
-    // 3. Call the function and print the result
+    
     int result = solution.uniqueXorTriplets(nums);
     cout << "Output: " << result << endl;
 
